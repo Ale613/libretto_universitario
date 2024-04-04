@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Libretto Universitario</string>
+    <string name="accedi">Accedi</string>
+    <string name="torna_home"><u>Torna alla Home</u></string>
+    <string name="esami_registrati">Esami Registrati</string>
+    <string name="aggiungi_esame">Aggiungi Esame</string>
+    <string name="registrati">Registrati</string>
+    <string name="titolo">Libretto Universitario</string>
+    <string name="titolo_registrazione">Registrazione</string>
+    <string name="titolo_aggiungi">Aggiungi Esame</string>
+    <string name="disconnettiti">Disconnettiti</string>
+    <string name="voto_di_laurea">Voto di Laurea</string>
+    <string name="media_ponderata">Media Ponderata</string>
+    <string name="media_aritmetica">Media Aritmetica</string>
+    <string name="nome">Nome</string>
+    <string name="nome_esame">Nome Esame</string>
+    <string name="numero_cfu">Numero CFU (Da 3 a 15)</string>
+    <string name="voto_ottenuto">Voto Ottenuto (Da 18 a 30)</string>
+    <string name="aggiungi">Aggiungi</string>
+    <string name="username">Username</string>
+    <string name="cognome">Cognome</string>
+    <string name="data_di_nascita">Data di nascita</string>
+    <string name="password">Password</string>
+    <string name="birthdate_hint">Data Di Nascita</string>
+    <string name="link_accedi">Hai già un account?</string>
+    <string name="accedi_underline"><u>Accedi</u></string>
+    <string name="registrati_underline"><u>Registrati</u></string>
+    <string name="tv_link_registrazione">Non hai un account?</string>
+    <string name="voto_base">00.00</string>
+    <string name="esempio_cfu">15 CFU</string>
+    <string name="esempio_voto">30</string>
+    <string name="esempio_descrizione">Esempio descrizione</string>
+    <string name="annulla">Annulla</string>
+    <string name="conferma">Conferma</string>
+</resources>
